@@ -130,10 +130,10 @@
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
-        "show_view_all": false,
+        "show_view_all": true,
         "show_divider": false,
         "columns_desktop": 3,
-        "heading": "Collections",
+        "heading": "Our Collections",
         "heading_size": "h1",
         "heading_alignment": "left",
         "heading_tag": "h2",
