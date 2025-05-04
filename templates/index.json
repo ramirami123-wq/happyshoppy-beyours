@@ -64,21 +64,56 @@
         "featured_collection_yipTPC": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
+            "collection": "home-and-decoration",
             "image_position": "center center"
           }
         },
         "featured_collection_GjWTJc": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
+            "collection": "kitchen-dining",
             "image_position": "center center"
           }
         },
         "featured_collection_bbqBgq": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
+            "collection": "automatives",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_Jkcm7t": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "health-beauty",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_RrHJbg": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "lighting",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_Ba6VqW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "camping",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_CKPyTE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "exercise-fitness",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_4hyewF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "office-supplies",
             "image_position": "center center"
           }
         }
@@ -86,7 +121,12 @@
       "block_order": [
         "featured_collection_yipTPC",
         "featured_collection_GjWTJc",
-        "featured_collection_bbqBgq"
+        "featured_collection_bbqBgq",
+        "featured_collection_Jkcm7t",
+        "featured_collection_RrHJbg",
+        "featured_collection_Ba6VqW",
+        "featured_collection_CKPyTE",
+        "featured_collection_4hyewF"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
