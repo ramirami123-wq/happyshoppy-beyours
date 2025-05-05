@@ -168,7 +168,7 @@
             "custom_icon": "",
             "title": "+30,000 Happy Customers",
             "title_size": "h3",
-            "text": "<p>Welcome to our store.</p>"
+            "text": ""
           }
         },
         "guarantee_dKY4pf": {
@@ -190,7 +190,7 @@
         "guarantee_dKY4pf"
       ],
       "custom_css": [
-        "span{color:white;}"
+        "span {color: white;}"
       ],
       "name": "t:sections.guarantees.presets.name",
       "settings": {
