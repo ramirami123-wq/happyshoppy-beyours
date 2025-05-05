@@ -25,8 +25,8 @@
             "heading_tag": "h2",
             "text": "",
             "text_size": "typeset2",
-            "button_label": "",
-            "button_link": "",
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections",
             "button_size": "medium",
             "button_style_secondary": false
           }
