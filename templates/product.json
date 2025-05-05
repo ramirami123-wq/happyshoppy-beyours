@@ -75,6 +75,9 @@
         "description",
         "sticky_cart"
       ],
+      "custom_css": [
+        ".price__badge-sale{background-color:red;color:white; border-radius:0.7rem;}"
+      ],
       "settings": {
         "enable_sticky_info": true,
         "media_position": "left",
