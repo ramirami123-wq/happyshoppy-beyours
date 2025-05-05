@@ -15,9 +15,9 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Yellow_Orange_Modern_Flash_Sale_Promotion_Instagram_Story_3.png",
+            "image": "shopify://shop_images/Yellow_Orange_Modern_Flash_Sale_Promotion_Instagram_Story_4.png",
             "image_position": "center center",
-            "text_box_position": "bottom-right",
+            "text_box_position": "middle-center",
             "subheading": "",
             "subheading_size": "h5",
             "heading": "",
