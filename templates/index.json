@@ -20,14 +20,6 @@
             "heading_tag": "h2"
           }
         },
-        "text_7wEiPH": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_size": "typeset2",
-            "secondary_color": false
-          }
-        },
         "button_p9i6KB": {
           "type": "button",
           "settings": {
@@ -40,7 +32,6 @@
       },
       "block_order": [
         "heading_fmn9zJ",
-        "text_7wEiPH",
         "button_p9i6KB"
       ],
       "name": "t:sections.image-banner.presets.name",
