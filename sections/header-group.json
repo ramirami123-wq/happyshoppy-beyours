@@ -105,8 +105,8 @@
         "colors_background": "#ffffff",
         "gradient_background": "",
         "colors_highlight": "#bbff00",
-        "padding_top": 12,
-        "padding_bottom": 12
+        "padding_top": 20,
+        "padding_bottom": 18
       }
     }
   },
