@@ -27,6 +27,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
+        "image": "shopify://shop_images/APPLE_WATCH_BANDS_8_2eb41ae1-ac15-430e-82ee-5f59173b8a09.png",
         "image_position": "center center",
         "text_box_position": "middle-center",
         "text_alignment": "center",
